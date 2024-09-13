@@ -62,8 +62,7 @@
               "RelativeToolTip": "ChatApp.UI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T12:06:08.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T12:06:08.952Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "ChatApp.UI\\wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-13T12:04:41.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T12:04:41.15Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "ChatApp.UI\\Views\\Chat\\Chat.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T12:01:42.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T12:01:42.218Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "ChatApp.UI\\Controllers\\ChatController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:01:12.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T12:01:12.881Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "ChatApp.UI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:00:46.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T12:00:46.363Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "ChatApp.HubOperation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:58:27.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T11:58:27.52Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "ChatApp.HubOperation\\Hubs\\ChatHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:58:16.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T11:58:16.479Z"
             }
           ]
         }
