@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChatApp.HubOperation/1.0.0": {
+        "runtime": {
+          "ChatApp.HubOperation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatApp.HubOperation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

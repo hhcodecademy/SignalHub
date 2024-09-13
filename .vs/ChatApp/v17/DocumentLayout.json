@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.ui\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|solutionrelative:chatapp.ui\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.ui\\views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|solutionrelative:chatapp.ui\\views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEABD5-2593-471F-B3EC-7C1778B92EE5}|ChatApp.HubOperation\\ChatApp.HubOperation.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.huboperation\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEABD5-2593-471F-B3EC-7C1778B92EE5}|ChatApp.HubOperation\\ChatApp.HubOperation.csproj|solutionrelative:chatapp.huboperation\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEABD5-2593-471F-B3EC-7C1778B92EE5}|ChatApp.HubOperation\\ChatApp.HubOperation.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.huboperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEABD5-2593-471F-B3EC-7C1778B92EE5}|ChatApp.HubOperation\\ChatApp.HubOperation.csproj|solutionrelative:chatapp.huboperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|solutionrelative:chatapp.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|solutionrelative:chatapp.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.ui\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|solutionrelative:chatapp.ui\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|c:\\users\\huseyn hasanli\\source\\repos\\chatapp\\chatapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CC89EF-40F8-4E7A-A068-2D12F2B06E7C}|ChatApp.UI\\ChatApp.UI.csproj|solutionrelative:chatapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChatApp.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChatApp.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:06:08.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ChatApp.UI\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ChatApp.UI\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T12:04:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "ChatApp.UI\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "ChatApp.UI\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T12:03:48.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Views\\Chat\\Chat.cshtml",
+              "RelativeDocumentMoniker": "ChatApp.UI\\Views\\Chat\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Views\\Chat\\Chat.cshtml",
+              "RelativeToolTip": "ChatApp.UI\\Views\\Chat\\Chat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:01:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatApp.UI\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatApp.UI\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:01:12.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.UI\\Program.cs",
+              "RelativeToolTip": "ChatApp.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:00:46.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.HubOperation\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp.HubOperation\\Program.cs",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.HubOperation\\Program.cs",
+              "RelativeToolTip": "ChatApp.HubOperation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:58:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.HubOperation\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatApp.HubOperation\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Huseyn Hasanli\\source\\repos\\ChatApp\\ChatApp.HubOperation\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatApp.HubOperation\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:58:16.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
